@@ -1,0 +1,13 @@
+{
+    "sistema": "Windows",
+    "version": [
+        "10",
+        "10.0.19045",
+        "SP0",
+        "Multiprocessor Free"
+    ],
+    "tipo_so": "win32",
+    "hostname": "DESKTOP-LVTON9A",
+    "marca_cpu": "Intel64 Family 6 Model 26 Stepping 5, GenuineIntel",
+    "direccion_ip_local": "192.168.56.1"
+}
